@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestLayer", "TestLayer", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FECA81C6-D619-4A9D-BB22-75EF3692B0D4}"
 	ProjectSection(SolutionItems) = preProject
+		ArchitecturalDecisions.md = ArchitecturalDecisions.md
 		README.md = README.md
 	EndProjectSection
 EndProject
