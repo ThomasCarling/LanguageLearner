@@ -7,4 +7,11 @@ assignees: ThomasCarling
 
 ---
 
-**conditions of satisfaction**
+**Conditions of satisfaction**
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
